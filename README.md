@@ -1,4 +1,4 @@
-# Browse my projects [here](https://ericmuckley.github.io/)
+# Many of my projects have a frontend browser [here](https://ericmuckley.github.io/)
 
 <!--
 **ericmuckley/ericmuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
