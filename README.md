@@ -1,4 +1,4 @@
-### Hi there 👋
+### Browse my projects [here](https://ericmuckley.github.io/)
 
 <!--
 **ericmuckley/ericmuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
