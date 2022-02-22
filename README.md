@@ -1,4 +1,4 @@
-# Many of my public projects can be browsed [here](https://ericmuckley.github.io/)
+# [Browse my public projects here](https://ericmuckley.github.io/)
 
 <!--
 **ericmuckley/ericmuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
