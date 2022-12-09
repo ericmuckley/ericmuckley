@@ -1,4 +1,12 @@
-# [Browse my public projects here](https://ericmuckley.github.io/)
+[Browse my public projects here](https://ericmuckley.github.io/)
+
+
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericmuckley)](https://github.com/ericmuckley/github-readme-stats&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmuckley)](https://github.com/ericmuckley/github-readme-stats)
+
+
 
 <!--
 **ericmuckley/ericmuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
