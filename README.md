@@ -1,5 +1,6 @@
 [Browse my public projects here](https://ericmuckley.github.io/me)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmuckley)](https://github.com/ericmuckley/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericmuckley&count_private=true&theme=dark&enable_icons=true)
 
