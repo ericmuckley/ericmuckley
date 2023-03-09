@@ -1,4 +1,4 @@
-## 🐉    Browse my public projects at [https://ericmuckley.github.io/me](https://ericmuckley.github.io/me)    🐉
+## Browse my public projects at [https://ericmuckley.github.io/me](https://ericmuckley.github.io/me)
 
 <!--
 
