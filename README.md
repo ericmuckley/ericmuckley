@@ -1,4 +1,4 @@
-## Browse my public projects at [https://muck.fun/eric](muck.fun/eric)
+## Browse my public projects at [muck.fun/eric](https://muck.fun/eric)
 
 <!--
 
