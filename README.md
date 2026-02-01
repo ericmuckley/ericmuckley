@@ -1,4 +1,4 @@
-Public projects are avilable at [eric.muck.fun](https://eric.muck.fun)
+See public projects at [eric.muck.fun](https://eric.muck.fun)
 
 <!--
 
